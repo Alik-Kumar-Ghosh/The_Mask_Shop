@@ -26,7 +26,8 @@ npm install tailwindcss@latest postcss@latest autoprefixer@latest
  
  ![alt text](https://github.com/Alik-Kumar-Ghosh/The_Mask_Shop/blob/master/dist/images/mask_shop-gif.gif "screnCap")
  
- 
+ ---
+
  ### License
  
  © Alik Kumar Ghosh, The_Mask_Shop is licensed under the GNU General Public License v3.0 [License](https://github.com/Alik-Kumar-Ghosh/The_Mask_Shop/blob/master/LICENSE)
